@@ -1,0 +1,22 @@
+IN THE CASE YOU WOULD LIKE TO IMPORT THE DATABASE FROM ITS DUMP
+
+1. Download and install XAMPP
+2. Open the Control Panel
+3. Start  MySQL and Apache servers
+4. Open the browser
+5. Write localhost/phpmyadmin in the address bar
+6. Go into "Databases"
+7. Go in "Import"
+8. Import “statisticsdb.sql" file 
+9. Click on "Go"
+10. Database is correctly imported
+
+REMEMBER TO CREATE A NEW USER FOR MYSQL OR ALTERNATIVELY TO USE:
+username: root
+password: 
+
+in the application.properties of the second micro service.
+
+To create a new User go to localhost/phpmyadmin from the browser.
+Click on Privileges > add User Account
+Write username, password, check the privileges and click on “Go”
