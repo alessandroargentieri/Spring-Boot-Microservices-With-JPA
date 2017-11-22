@@ -161,7 +161,7 @@ https://www.w3schools.com/xml/ajax_intro.asp
 
 ------------------------------------------
 
-## pom.xml di StatisticsMicroservice ##
+## pom.xml of StatisticsMicroservice ##
 
     <?xml version="1.0" encoding="UTF-8"?>
     <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -231,7 +231,7 @@ https://www.w3schools.com/xml/ajax_intro.asp
 
 
 ------------------------------------------
- # Interfaccia FRONT-END #
+ # FRONT-END interface #
  
  ## HTML ##
  
