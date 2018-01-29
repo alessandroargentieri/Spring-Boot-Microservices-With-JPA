@@ -1,5 +1,5 @@
 # Spring-Boot-Microservices-With-JPA
-Github repo for the Udemy course: Spring Boot Microservices with JPA
+Github repo for the course: Spring Boot Microservices with JPA
 
 
 
